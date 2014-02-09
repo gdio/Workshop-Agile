@@ -1,0 +1,11 @@
+//Présentation de 7-10 minutes à 4
+
+Pensez à parler : 
+ - Des différentes étapes (FAIT)
+ - Des rôles de chacun
+ - De la gestion des artefacts
+ - Des inconvénients avec les méthodes vu en cours
+ - Conclure
+ - Faire une feuille A4 récapitulative pour tous le monde
+
+NB : pensez à expliquer brievement RUP
